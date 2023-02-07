@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\xexub\\Documents\\GitHub\\tarjetaCredito-API\\obj\\Debug\\net6.0\\project.razor.json",
-  "FilePath": "c:\\Users\\xexub\\Documents\\GitHub\\tarjetaCredito-API\\tarjetaCredito-API.csproj",
+  "SerializedFilePath": "c:\\Users\\xexub\\Documents\\GitHub\\tarjetaCredito-API\\src\\tarjetaCredito.API\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\xexub\\Documents\\GitHub\\tarjetaCredito-API\\src\\tarjetaCredito.API\\tarjetaCredito.API.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -18371,7 +18371,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "tarjetaCredito_API",
+  "RootNamespace": "tarjetaCredito.API",
   "Documents": [],
   "SerializationFormat": "0.3"
 }

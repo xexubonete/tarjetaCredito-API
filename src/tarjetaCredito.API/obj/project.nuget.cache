@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xOHaBHfdrr2Uyyh2cxrP6lylboX/102xTEKZy7Dtnx6Iscoo7LNTUpRoWRi0SP4FZiOHp3RZuWMCYdD2606r1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xexub\\Documents\\GitHub\\tarjetaCredito-API\\src\\tarjetaCredito.API\\tarjetaCredito.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xexub\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\xexub\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\xexub\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\xexub\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\xexub\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\xexub\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
